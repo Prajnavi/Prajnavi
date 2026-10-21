@@ -81,6 +81,6 @@ Chanakya University
 
 - **Portfolio:** [Visit My Portfolio](https://prajnavi-portfolio.netlify.app/)
 - **LinkedIn:** [Connect With Me](https://www.linkedin.com/in/prajnavi-910333322/)
-- **GitHub:** [Explore My Repositories](https://github.com/Prajnavi)
+- **GitHub:** [Explore My Repositories](https://github.com/Prajnavi?tab=repositories)
 
 ---
